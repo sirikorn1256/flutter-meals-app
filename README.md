@@ -77,7 +77,7 @@ git push -u origin main
 ## หน้า Main
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4982b1a1-6fd6-454f-bd21-1bfecf211462" width="300"/>
+<img width="2506" height="1421" alt="ภาพถ่ายหน้าจอ 2569-03-04 เวลา 17 01 28" src="https://github.com/user-attachments/assets/879bca50-b754-4991-a08b-a9228de191d9" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ git push -u origin main
 ## หน้า Meals
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/14396763-9729-4e40-a9d4-04604d9a5e96" />
+<img width="773" height="1440" alt="ภาพถ่ายหน้าจอ 2569-03-04 เวลา 17 01 51" src="https://github.com/user-attachments/assets/b3b66ee4-96ce-4690-9b3c-92e0e9b30fac" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ git push -u origin main
 ## หน้า Meal Detail
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/b4926c2f-8255-4db2-b11f-e663f193d01d" width="300"/>
+<img width="779" height="1440" alt="ภาพถ่ายหน้าจอ 2569-03-04 เวลา 17 02 06" src="https://github.com/user-attachments/assets/95bd157f-49fb-420b-9226-a672a4867bd7" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ git push -u origin main
 ## หน้า Favorites
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f4f1a156-311d-407b-85d2-42cfadaef226" width="300"/>
+<img width="785" height="1440" alt="ภาพถ่ายหน้าจอ 2569-03-04 เวลา 17 02 18" src="https://github.com/user-attachments/assets/25ea83ca-65f8-47bd-ba5a-4f7184e885cc" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ git push -u origin main
 ## หน้า Favorites (เมื่อยังไม่มีรายการ)
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/013b819c-ca16-4d4c-9e14-253dca758325" width="300"/>
+<img width="780" height="1436" alt="ภาพถ่ายหน้าจอ 2569-03-04 เวลา 17 02 30" src="https://github.com/user-attachments/assets/b0969916-974d-43d6-abbc-cd98e9fbc7f9" />
 </p>
 
 
