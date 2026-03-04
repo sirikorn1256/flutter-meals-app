@@ -93,7 +93,7 @@ git push -u origin main
 ## หน้า Meals
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/67635a58-db5a-41d0-ba48-2418b73ed0cf" width="300"/>
+<img src="https://github.com/user-attachments/assets/67635a58-db5a-41d0-ba48-2418b73ed0cf" width="300">
 </p>
 
 ---
