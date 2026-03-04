@@ -72,6 +72,13 @@ git push -u origin main
 
 ## โครงสร้างโปรเจค
 
+**<p align="center">
+<img width="437" height="712" alt="โครงสร้างโปรเจค" src="https://github.com/user-attachments/assets/52572a45-a0d4-491b-987e-2ad2d995f7d8" />
+</p>
+
+---
+
+
 ## ผลลัพธ์การทำงานของแอป
 
 
