@@ -74,18 +74,11 @@ git push -u origin main
 
 ## ผลลัพธ์การทำงานของแอป
 
-## หน้า Main
-
-<p align="center">
-<img width="2506" height="1421" alt="ภาพถ่ายหน้าจอ 2569-03-04 เวลา 17 01 28" src="https://github.com/user-attachments/assets/879bca50-b754-4991-a08b-a9228de191d9" />
-</p>
-
----
 
 ## หน้า Categories
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9deee349-b7a5-44b2-ae2b-8015753c96c7" width="300"/>
+<img width="2506" height="1421" alt="ภาพถ่ายหน้าจอ 2569-03-04 เวลา 17 01 28" src="https://github.com/user-attachments/assets/879bca50-b754-4991-a08b-a9228de191d9" />
 </p>
 
 ---
